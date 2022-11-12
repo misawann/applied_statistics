@@ -10,5 +10,9 @@ codes for applied statistics at autumn semester
 # Sentence BERT & PCA
 
 download [livedoor corpus](https://www.rondhuit.com/download.html#ldcc) in `data` directory
-![pca_sbert](https://github.com/misawann/applied_statistics/blob/main/misc/pca_sentence_bert_200_per_topic.png)
-![pca_contribution_ratio](https://github.com/misawann/applied_statistics/blob/main/misc/contribution_ratio_200_per_topic.png)
+
+<p align="center">
+  <img src="https://github.com/misawann/applied_statistics/blob/main/misc/pca_sentence_bert_200_per_topic.png"/>
+  <img src="https://github.com/misawann/applied_statistics/blob/main/misc/contribution_ratio_200_per_topic.png"/>
+</p>
+<p align="center">
