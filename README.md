@@ -1,13 +1,13 @@
-# applied_statistics
+# Applied Statistics
 
 codes for applied statistics at autumn semester
 
-# MC for RandomWalk
+## MC for RandomWalk
 
 ![d1_100](https://github.com/misawann/applied_statistics/blob/main/misc/randomwalk_d1-100.png)
 ![d1_3](https://github.com/misawann/applied_statistics/blob/main/misc/randomwalk_1000000.png)
 
-# Sentence BERT & PCA
+## Sentence BERT & PCA
 
 download [livedoor corpus](https://www.rondhuit.com/download.html#ldcc) in `data` directory
 
